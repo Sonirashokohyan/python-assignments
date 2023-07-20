@@ -1,0 +1,22 @@
+x = 4
+y = 5
+print((x + y) - (y + x))
+
+print((9 + 4) - (7 - 3))
+print((3 - 4) + (7 + 6))
+print(100 - 3 ** 2)
+print( 70 - 3 * 4)
+print( 3 - +3)
+print( 10 +  -3)
+print((2 + 3) / (4 + 5))
+print ( 100 // 5)
+print(100 == 99 + 1)
+print( 99 != 99 - 1)
+print( 200 > 31)
+print( 300 >= 200 + 100)
+print(12 <= 60 - 1)
+print ( 9 is 9)
+print ( not 5 == 6)
+print( not 6 == 6)
+print ( 6 is 5 + 1)
+print ( 2 or 3 and 4)
